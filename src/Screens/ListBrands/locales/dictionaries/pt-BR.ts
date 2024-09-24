@@ -1,0 +1,16 @@
+export const ListBrandsPtBR = {
+  list_brands_title: "Lista de marcas",
+  list_brands_register_button: "Cadastrar",
+  list_brands_search_by_brand: "buscar marca",
+  list_brands_search: "Buscar",
+  list_brands_table_brand: "Marca",
+  list_brands_table_edit: "Editar",
+  list_brands_table_status: "Status",
+  list_brands_register_brand: "Cadastro de marca",
+  list_brands_update_brand: "Atualizar marca",
+  list_brands_placeholder_name_of_brand: "digite o nome da marca...",
+  list_brands_title_name_of_brand: "Nome da marca",
+  list_brands_close: "Fechar",
+  list_brands_modal_register_button: "Cadastrar",
+  list_brands_modal_update_button: "Atualizar",
+};

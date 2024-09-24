@@ -1,0 +1,1 @@
+export { ResultNotFoundPtBR } from "./dictionaries/pt-Br";

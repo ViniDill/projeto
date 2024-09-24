@@ -1,0 +1,1 @@
+export { UploadImagePtBR } from "./dictionaries/pt-Br";

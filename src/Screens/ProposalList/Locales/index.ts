@@ -1,0 +1,1 @@
+export { ProposalListPtBR } from "./dictionaries/pt-Br";

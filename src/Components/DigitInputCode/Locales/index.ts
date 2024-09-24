@@ -1,0 +1,1 @@
+export { DigitInputCodePtBR } from "././dictionaries/pt-Br";

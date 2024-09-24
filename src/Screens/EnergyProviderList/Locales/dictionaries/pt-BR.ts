@@ -1,0 +1,21 @@
+export const EnergyProviderListPtBR = {
+    energy_provider_list_title: "Lista de concessionária",
+    energy_provider_list_name: "Concessionária",
+    energy_provider_list_status: "Status",
+    energy_provider_list_edit: "Editar",
+    energy_provider_list_register_button: "Cadastrar",
+    energy_provider_list_delete: "Deletar",
+    energy_provider_list_search_placeholder: "Pesquisar...",
+    energy_provider_list_button_search: "Buscar",
+    energy_provider_list_filter: "Filtros",
+    energy_provider_list_name_mobile: "Concessionária:",
+    energy_provider_list_status_mobile: "Status:",
+    energy_provider_list_edit_mobile: "Editar",
+    energy_provider_list_delete_mobile: "Deletar",
+    energy_provider_list_register_mobile: "Cadastrar",
+    confirmation_delete_message_title: "Tem certeza que deseja excluir?",
+    confirmation_delete_message: "Você tem certeza de que deseja apagar permanentemente a concessionária",
+    confirmation_delete_cancel_button: "Voltar",
+    confirmation_delete_confirm_button: "Excluir",
+  };
+  

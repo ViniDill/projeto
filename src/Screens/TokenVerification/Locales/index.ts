@@ -1,0 +1,1 @@
+export { TokenPtBR } from "./dictionaries/pt-Br";

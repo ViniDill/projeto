@@ -1,0 +1,1 @@
+export { DashboardPtBR } from "./dictionaries/pt-Br";

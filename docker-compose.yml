@@ -1,0 +1,22 @@
+# version: '3'
+# services:
+#   react-app:
+#     build:
+#       context: .
+#       dockerfile: Dockerfile
+#     ports:
+#       - "3000:80"  # Mapeie a porta do contêiner para a porta desejada no host
+#     volumes:
+#       - ./src:/app/src  # Mapeie o diretório de código-fonte para permitir atualizações em tempo real (opcional)
+
+version: '3'
+
+services:
+  node:
+    image: node:18
+    ports:
+      - '3000:3000'
+    volumes:
+      - ./:/srv/react-docker
+    working_dir: /srv/react-docker
+    command: 'npm start'

@@ -1,0 +1,1 @@
+export { KitListPtBR } from "./dictionaries/pt-BR"

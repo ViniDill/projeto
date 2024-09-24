@@ -1,0 +1,1 @@
+export { PageNotFoundPtBR } from "./dictionaries/pt-Br";
